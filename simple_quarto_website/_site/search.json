@@ -39,6 +39,6 @@
     "href": "slides/slides.html#slide-2",
     "title": "Slide 1",
     "section": "Slide 2",
-    "text": "Slide 2\n \n\n\nCode\n##Slide 3\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nplt.plot([0,1,2,3],[0,1,2,3])\nplt.title(\"Plot\")\nplt.show()"
+    "text": "Slide 2\n \n\n\nCode\n##Slide 3\nimport matplotlib.pyplot as plt\n\nplt.plot([0,1,2,3],[0,1,2,3])\nplt.title(\"Plot\")\nplt.show()"
   }
 ]
