@@ -7,15 +7,27 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - about.ipynb
+      - href: slides/slides.ipynb
+        text: slides
 
 format:
   html:
     theme:
       - cosmo
       - brand
-    css: styles.css
     toc: true
+    code-fold: true
+  revealjs:
+    theme: dark
+    transition: slide
+    incremental: true
+    slide-number: true
+
+bibliography: reference.bib
+
+
+
 
 
 

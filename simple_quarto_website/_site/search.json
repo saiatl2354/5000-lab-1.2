@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "#First\nLorem ipsum lorem ipsum bibtex citation. (daly1999?). 1\n#Second(## )\n\\(A = \\pi r^2\\)\n\\[\n\\nabla^2 \\phi = 0\n\\]"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the footnote.↩︎"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#header-2-h2",
+    "href": "about.html#header-2-h2",
+    "title": "About",
+    "section": "Header 2 (H2)",
+    "text": "Header 2 (H2)\nLorem ipsum\n\nHeader 3 (H3)\nLorem ipsum\n\n\nCode\nimport matplotlib.pyplot as plt\n\nplt.plot([0,1,2,3], [0,1,2,3])\nplt.show"
+  },
+  {
+    "objectID": "slides/slides.html",
+    "href": "slides/slides.html",
+    "title": "Slide 1",
+    "section": "",
+    "text": "Lorem ipsum lorem ipsum (daly1999?)."
+  },
+  {
+    "objectID": "slides/slides.html#slide-2",
+    "href": "slides/slides.html#slide-2",
+    "title": "Slide 1",
+    "section": "Slide 2",
+    "text": "Slide 2\n \n\n\nCode\n##Slide 3\n\n\n\n\nCode\nimport matplotlib.pyplot as plt\n\nplt.plot([0,1,2,3],[0,1,2,3])\nplt.title(\"Plot\")\nplt.show()"
+  }
+]
